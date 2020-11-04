@@ -29,9 +29,3 @@ img image,
 important1 int default 0,
 lu1 int default 0
 )
---drop table compte
-drop table msg
-select * from compte
-select * from msg
-drop table msg
-delete  msg
